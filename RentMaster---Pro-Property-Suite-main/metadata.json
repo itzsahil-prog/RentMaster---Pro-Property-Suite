@@ -1,0 +1,17 @@
+{
+  "name": "RentMaster - Pro Property Suite",
+  "description": "Enterprise-grade Rental Management Platform built with Node.js, Express, and Supabase. Real-time property operations, automated analytics, and tenant management.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "deployment": {
+    "recommended": [
+      "Vercel",
+      "Railway",
+      "Netlify"
+    ],
+    "backend": "Node.js/Express",
+    "database": "Supabase/PostgreSQL"
+  }
+}
